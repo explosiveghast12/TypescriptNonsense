@@ -4,7 +4,10 @@ Individual:
 11/7/2025 - 5:20pm - 10 minutes
 11/13/2025 - 3:30pm - 30 minutes
 11/14/2025 - 9:15am - 60 minutes
-11/14/2025 - 12:00pm - 
+11/14/2025 - 12:00pm - 60 minutes
+
+(Used obfuscator: https://obfuscator.io/ just on js)
+(kept typescript so you could see what it is)
 
 Group:
 11/3/2025 - 5:00pm - 60 minutes
