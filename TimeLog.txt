@@ -1,5 +1,14 @@
 Individual:
 11/3/2025 - 2:00pm - 30 minutes
-11/5/2025 - 9:00am - 
+11/5/2025 - 9:00am - 40 minutes
+11/7/2025 - 5:20pm - 10 minutes
+11/13/2025 - 3:30pm - 30 minutes
+11/14/2025 - 9:15am - 60 minutes
+11/14/2025 - 12:00pm - 
+
 Group:
 11/3/2025 - 5:00pm - 60 minutes
+11/5/2025 - 2:00pm - 60 minutes (rounded)
+11/5/2025 - 6:00pm - 30 minutes (rounded)
+11/7/2025 - 2:00pm - 60 minutes
+11/10/2025 - 2:00pm - 60 minutes

@@ -1,5 +1,6 @@
 // classy.ts
 // A basic typescript class
+// https://www.geeksforgeeks.org/typescript/how-to-define-a-regex-matched-string-type-in-typescript/ (use an adblocker)
 interface Information {
     type: string;
     numbers: number[];
@@ -7,6 +8,7 @@ interface Information {
 }
 
 export class Pariah {
+    expression: string = "";
     definition: string;
     interfacing?: Information;
 
@@ -14,8 +16,21 @@ export class Pariah {
         this.definition = definition;
     }
 
+    defineExpression(exp: string)
+    {
+        this.expression = exp;
+    }
+
     get meaning(): string {
         return this.definition;
+    }
+
+    regulate(gst: string) // Apparently typescript has a match() function for regular expressions
+    {
+        // Apparently without the g this will only match the first instance.
+        return gst.match(new RegExp(this.expression, 'g'))?.forEach((answer) => {
+            console.log(answer);
+        });
     }
 
     finishRequirements()
