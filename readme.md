@@ -30,6 +30,6 @@ This was the most helpful website for learning typescript:
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] Add more classes
-* [ ] Embed the typescript (javascript?) into html
+* [*] Add more classes (ended up adding more to the one class)
+* [*] Embed the typescript (javascript?) into html
 * [ ] Obfuscate the code
